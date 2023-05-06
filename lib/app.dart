@@ -1,6 +1,6 @@
-import 'package:avigo/enter_page.dart';
-import 'package:avigo/login_page.dart';
-import 'package:avigo/registration_page.dart';
+import 'package:avigo/pages/enter_page.dart';
+import 'package:avigo/pages/login_page.dart';
+import 'package:avigo/pages/registration_page.dart';
 import 'package:flutter/material.dart';
 
 class MyApp extends StatelessWidget {

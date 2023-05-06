@@ -1,7 +1,8 @@
-import 'package:avigo/login_page.dart';
-import 'package:avigo/registration_page.dart';
+import 'package:avigo/pages/registration_page.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
+
+import 'login_page.dart';
 
 class EnterPage extends StatelessWidget {
   static const String id = "enter_page";
